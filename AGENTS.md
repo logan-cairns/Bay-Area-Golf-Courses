@@ -19,7 +19,7 @@ After STOP 1, help the student propose and approve the six TARGET lines and one 
 
 ## My standing rule
 
-[One observable, student-approved rule that protects this project's purpose or experience.]
+Every displayed course must visibly include its price range, difficulty, and scenery rating.
 
 ## Workflow
 
